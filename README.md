@@ -101,7 +101,6 @@ Multiple charts were generated using Matplotlib for clear visual interpretation.
 ## How to Run This Project
 
 1. Clone the repository:  
-   ```bash
    git clone https://github.com/your-username/retail-sales-analysis-superstore.git
 
 2. Install Required Python Libraries
